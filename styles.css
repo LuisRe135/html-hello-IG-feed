@@ -1,0 +1,68 @@
+body {
+    background-color: #BDBDBD;
+    margin: 0;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+header{
+    background-color: white;
+
+}
+header h1 {
+    text-align: center;
+}
+.post{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    margin-top: 30px;
+}
+
+.header {
+    background-color: white;
+    height: 50px;  
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.header h2, .header span {
+    
+    display: inline-block;
+    padding-top: 15px;
+}
+h2 {
+    width: 80%;
+    margin: 0;
+}
+
+span {
+   width: 19%;
+    position: relative;
+    color: grey;
+    text-align: right;
+}
+.content {
+    height: 400px;
+}
+.description {
+
+    background-color: white;
+    height: 50px;
+    padding: 0%;
+}
+.description p {
+    margin: 0;
+    padding: 10px
+}
+img {
+    padding: 0%;
+
+}
+
+.feed {
+    margin: auto;
+    width: 600px;
+}
+
